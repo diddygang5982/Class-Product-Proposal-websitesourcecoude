@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Break Catch - AI-Powered Bug Predictor</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Break Catch</h1>
+    <p>AI-Powered Bug Predictor</p>
+  </header>
+
+  <section id="team">
+    <h2>Team Members</h2>
+    <ul>
+      <li>Justin</li>
+      <li>Bobby</li>
+      <li>Nate</li>
+    </ul>
+  </section>
+
+  <section id="overview">
+    <h2>Application Overview</h2>
+    <p>Break Catch is an extension that predicts bugs in your code, prior to launching your website. This is done through learning your historical data and patterns, so that you can prevent having to go back and repair code if something breaks on your first deployment.</p>
+  </section>
+
+  <section id="technology">
+    <h2>Technology Overview</h2>
+    <ul>
+      <li><strong>Languages:</strong> Python, JavaScript, HTML, CSS</li>
+      <li><strong>Libraries:</strong> TensorFlow, Scikit-learn, Flask</li>
+      <li><strong>Platforms:</strong> GitHub Pages (exclusively)</li>
+      <li><strong>Hosting:</strong> GitHub Pages</li>
+    </ul>
+  </section>
+
+  <section id="proposal">
+    <h2>Proposal Last Updated</h2>
+    <p>March 18, 2025</p>
+  </section>
+
+  <section id="features">
+    <h2>Feature List</h2>
+    <ol>
+      <li>Bug prediction with confidence scores</li>
+      <li>Integration with CI/CD pipelines</li>
+      <li>Detailed reports with suggested fixes</li>
+      <li>Support for multiple programming languages</li>
+    </ol>
+  </section>
+
+  <section id="future-features">
+    <h2>Future Feature List</h2>
+    <ul>
+      <li>Real-time code analysis during development</li>
+      <li>Integration with popular IDEs (e.g., VS Code, IntelliJ)</li>
+      <li>Customizable prediction models</li>
+      <li>Advanced debugging tools</li>
+    </ul>
+  </section>
+
+  <section id="basic-tech">
+    <h2>Basic Technical Features</h2>
+    <ul>
+      <li>Machine learning model training using TensorFlow</li>
+      <li>REST API for integration with CI/CD pipelines</li>
+      <li>Responsive web design for mobile and desktop</li>
+    </ul>
+  </section>
+
+  <section id="advanced-tech">
+    <h2>Advanced Technical Features</h2>
+    <ul>
+      <li>Natural language processing for bug description analysis</li>
+      <li>Real-time collaboration features for teams</li>
+      <li>Automated code refactoring suggestions</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Break Catch Team</p>
+  </footer>
+</body>
+</html>
